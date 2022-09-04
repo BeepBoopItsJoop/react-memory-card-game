@@ -5,7 +5,6 @@ import Main from './Main';
 function App() {
   return ( 
     <>
-    <Scoreboard /*score={score} bestScore={bestScore}*//>
     <Main />
     </>
    );
